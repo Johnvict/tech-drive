@@ -36,4 +36,5 @@ body {
 .small {
 	display: block;
 	text-align: right;
+	font-weight: 800;
 }
